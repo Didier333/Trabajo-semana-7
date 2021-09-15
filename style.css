@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+
+}
+
+h1{
+    text-align: right;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: solid;color: rgb(100, 255, 10);
+   
+   
+    background-color: grey;
+    
+   }
+
+   h2{
+       color: rgb(49, 4, 248);
+
+   }
+
+   img{
+       border-style:solid;color:green;
+       
+    
+   }
+
+   table,td, th{
+       width: 50%;
+       border-style: solid;color: rgb(6, 64, 255);
+       
+   }
